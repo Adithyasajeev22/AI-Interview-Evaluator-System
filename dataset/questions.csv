@@ -1,0 +1,6 @@
+Question,Expected_Answer,Keywords
+What is Python?,Python is a high-level programming language.,python|programming|language
+What is Machine Learning?,Machine Learning is a branch of Artificial Intelligence that learns from data.,machine learning|artificial intelligence|data
+What is NLP?,Natural Language Processing enables computers to understand human language.,nlp|natural language processing|language
+What is Pandas?,Pandas is a Python library used for data analysis.,pandas|dataframe|analysis
+What is NumPy?,NumPy is a Python library for numerical computing.,numpy|array|numerical

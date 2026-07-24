@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+textblob
+language-tool-python
+matplotlib
+reportlab
+openpyxl
