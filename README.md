@@ -125,42 +125,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 📸 Project Screenshots
-
-> Add your screenshots inside a folder named **screenshots** and update the image names.
-
-### Login Page
-
-![Login](screenshots/login.png)
-
----
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-### Interview Interface
-
-![Interview](screenshots/interview.png)
-
----
-
-### Evaluation Report
-
-![Evaluation](screenshots/evaluation.png)
-
----
-
-### PDF Report
-
-![PDF Report](screenshots/pdf_report.png)
-
----
-
 ## 📊 Evaluation Metrics
 
 The system evaluates candidate responses using:
@@ -200,7 +164,6 @@ The system evaluates candidate responses using:
 
 **Adithya Sajeev**
 
-GitHub: https://github.com/Adithyasajeev22
 
 ---
 
